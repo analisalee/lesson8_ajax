@@ -4,21 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Analisa Lee
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I requested my own API key to use AJAX JSON APIs to make a program that displays movie information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://analisalee.github.io/lesson8_ajax/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. JSON is a syntax for storing and exchanging data
+2. API key often acts as both a unique identifier and a secret token for authentication, and will
+    generally have a set of access rights on the API associated with it
+3. I learned that JSON statements are set up like: key:value
+4. The HTTP request allows AJAX to work and give an HTTP Response
+5. I also learned you need a URL to display your unique API key.
